@@ -1,2 +1,2 @@
 # Algorithms
-Repository containing solutions for random algorithms.
+Repository containing solutions for randomly chosen algorithms from Codewars.com.
